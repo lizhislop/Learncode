@@ -1,1 +1,3 @@
 # Learncode
+cd <newname>
+  
